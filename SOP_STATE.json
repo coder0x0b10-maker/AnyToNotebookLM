@@ -1,0 +1,13 @@
+{
+  "project": "AnyToNotebookLM",
+  "current_phase": 1,
+  "phase_name": "Project Blueprint & Spec",
+  "current_step": "Phase 1 - Spec Creation",
+  "status": "WAITING_FOR_REVIEW",
+  "assignee": "da-ha",
+  "last_pr": null,
+  "last_pr_status": "PENDING",
+  "sop_version": "v5.5",
+  "updated_at": "2026-03-08T20:05:00+08:00",
+  "next_action": "da-ha to write the initial specification for AnyToNotebookLM."
+}
