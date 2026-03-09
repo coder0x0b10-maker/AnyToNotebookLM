@@ -1,13 +1,13 @@
 {
   "project": "AnyToNotebookLM",
-  "current_phase": 1,
-  "phase_name": "Project Blueprint & Spec",
-  "current_step": "Phase 1 - Spec Creation",
-  "status": "WAITING_FOR_REVIEW",
-  "assignee": "da-ha",
-  "last_pr": null,
-  "last_pr_status": "PENDING",
+  "current_phase": 2,
+  "phase_name": "Implementation",
+  "current_step": "Phase 2 - Implementation",
+  "status": "WAITING_FOR_IMPL",
+  "assignee": "er-ha",
+  "last_pr": "https://github.com/coder0x0b10-maker/AnyToNotebookLM/pull/1",
+  "last_pr_status": "MERGED",
   "sop_version": "v5.5",
-  "updated_at": "2026-03-08T20:05:00+08:00",
-  "next_action": "da-ha to write the initial specification for AnyToNotebookLM."
+  "updated_at": "2026-03-09T12:37:00+08:00",
+  "next_action": "Er-ha is currently implementing the core logic for the AnyToNotebookLM skill (Phase 2)."
 }
