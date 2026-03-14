@@ -1,0 +1,30 @@
+{
+  "name": "any2nlm",
+  "version": "1.0.0",
+  "description": "AnyToNotebookLM - A lightweight bridge that turns a single online URL into clean Markdown and uploads it to NotebookLM",
+  "main": "dist/index.js",
+  "bin": {
+    "any2nlm": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "ts-node src/cli.ts"
+  },
+  "keywords": [
+    "notebooklm",
+    "cli",
+    "markdown",
+    "extraction"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.19.37",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
